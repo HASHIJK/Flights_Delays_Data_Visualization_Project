@@ -3,7 +3,7 @@ The goal in this project is to create visualizations to reveal insights from a d
 <br/>
 
 **Getting Dataset** <br/> 
-In this project, you have different three datasets, you can choose any one of them, I chose The Flight Delays and Cancellations Dataset, you can find out this data in _Kaggle_. The remaining datasets are: _2. US Census Demographic Data_ 3. _Youtube Data US_. All of this dataset is in _Kaggle_. <br/> 
+In this project, you have different three datasets, you can choose any one of them, I chose The Flight Delays and Cancellations Dataset, you can find out this data in _Kaggle_. The remaining datasets are: _2. US Census Demographic Data_ 3. _Youtube Data US_. All of this dataset is in _Kaggle_. You can download the cleaned dataset which I used in the visualization phase of this project, by pressing [here](https://docs.google.com/spreadsheets/d/1jZ0zhm_qPRkf2UNx6bnuPURAPuXF78Ba/edit?usp=sharing&ouid=113179356126063295861&rtpof=true&sd=true). <br/> 
 <br/>
 
 **Project Requirements** <br/>
